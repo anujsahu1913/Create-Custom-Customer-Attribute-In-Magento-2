@@ -1,3 +1,6 @@
+/**
+ * Copyright © Code With Anuj Sahu, Inc. All rights reserved.
+ */
 input CustomerInput @doc(description: "An input object that assigns or updates customer attributes.") {
     customer_phone_number: String @doc(description: "The customer's phone number.")
 }
