@@ -8,7 +8,7 @@ Now go to the admin **Customer->Edit Existing or Create New Customer**. You will
 
 <img width="1016" height="101" alt="image" src="https://github.com/user-attachments/assets/606089c8-7910-4fcc-8868-ea47d53b6e91" />
 
-===========================================================================================================
+===================================================================================
 **When you successfully create the customer attribute, go to PWA folder structure and find below files and add the below code**
 
 **node_modules/@magento/venia-ui/lib/components/CreateAccount/createAccount.js**
